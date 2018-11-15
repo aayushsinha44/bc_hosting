@@ -1,9 +1,7 @@
-# MissionImpossible
-<hr>
 # BC Hosting(<a href="http://missionimpossible-hackabit.tech/">http://missionimpossible-hackabit.tech</a>)
 <br >
 <br />
-<img src="https://raw.githubusercontent.com/hackabit18/MissionImpossible/master/pic.PNG">
+<img src="https://raw.githubusercontent.com/aayushsinha44/bc_hosting/master/pic.PNG">
 <br /><br />
 BC hosting a product which make possible for the user to host website using blockchain technology. <br />
 This gives us following benifits:
