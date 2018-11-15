@@ -1,0 +1,21 @@
+{
+  "name": "bchosting",
+  "version": "1.0.0",
+  "description": "Webhosting on blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayush Sinha",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.6"
+  }
+}

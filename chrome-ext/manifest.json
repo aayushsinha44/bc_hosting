@@ -1,0 +1,18 @@
+{
+	"background": {
+		"scripts": [
+			"js/jquery.min.js",
+			"js/web3.min.js",
+			"js/truffle-contract.min.js",
+			"background.js"
+		]
+	},
+	"icons": {
+
+	},
+	"manifest_version": 2,
+	"name": "BCHosting",
+	"permissions": ["webRequest", "webRequestBlocking","webNavigation", "*://*/*"],
+	"version": "0.1",
+	"description": "An extension with provides access to all website hosted on blockchaing"
+}
